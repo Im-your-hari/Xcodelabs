@@ -8206,7 +8206,7 @@ h1, h2, h3, h4, h5,
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
       border: 0.5px solid #41bea3;
-      border-radius: 25%;
+      border-radius: 0%;
       color: #41b3a3; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
